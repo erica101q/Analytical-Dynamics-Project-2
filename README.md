@@ -1,5 +1,9 @@
 # Analytical-Dynamics-Project-2
 This project will
+## Solving for M(q)
+First the center of mass is needed and is taken from the position vector. The following equations are taken from the diagram.
+![image](https://github.com/user-attachments/assets/8c977780-3259-4900-91ea-cbae055dbe4b)
+
 ## Verify equations of motion
 Given:
 
