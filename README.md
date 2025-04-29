@@ -23,6 +23,8 @@ Then putting the equations in matrix form the M matrix can be derived below if t
 
 ![image](https://github.com/user-attachments/assets/02ef2f9e-869f-4046-af35-e5dc76d3e6e3)
 
+The matrix is able to be put into the T equation which is also the lyapunov function in the verify equations of motion section. 
+
 ## Verify equations of motion
 Given:
 ![image](https://github.com/user-attachments/assets/774d7171-5116-4da5-bcb7-df8a55f2d9b6)
@@ -31,13 +33,23 @@ Given:
 ![image](https://github.com/user-attachments/assets/d2e088ec-b504-4b8b-8d7d-47fcd6af9efd)
 
 
+The lyapunov function is also given in 8.9 example and is seen below:
 
-
-The lyapunov function is also given in 8.9 example:
+![image](https://github.com/user-attachments/assets/9079f9f3-f03d-45a6-953c-7bf066655d04)
 
 In order to verify the equations of motion the equations need to match the given expression below:
 
+![image](https://github.com/user-attachments/assets/b2a1e1f4-a152-4175-bb56-b82a43f008aa)
+
 Due to the problem not stating anything dealing with potential energy the lagrange equation is equal to kinetic energy. Using the kineitc energy and lagrange equationa and equaling it to Q will allow for the equations of motion to be derived below. 
+
+![image](https://github.com/user-attachments/assets/1cdf5e3f-253c-4e38-894c-b15b6af94c74)
+![image](https://github.com/user-attachments/assets/f69bde7c-fada-4bfb-824e-b277521532c0)
+Then following the same process the following two equations can be determined below:
+
+![image](https://github.com/user-attachments/assets/4743ca4f-dc4f-4bd5-89a5-4573150b2ce9)
+![image](https://github.com/user-attachments/assets/a3bcf829-059b-4090-8121-54dfad917dec)
+
 
 
 
