@@ -2,20 +2,21 @@
 This project will
 ## Solving for M(q)
 First the center of mass is needed and is taken from the position vector. The following equations are taken from the diagram.
-![image](https://github.com/user-attachments/assets/8c977780-3259-4900-91ea-cbae055dbe4b)
+
+  ![image](https://github.com/user-attachments/assets/8c977780-3259-4900-91ea-cbae055dbe4b)
 After having the equations for each component each componets derivatives can be taken.
-![image](https://github.com/user-attachments/assets/4dbdd5b8-2062-42ea-a882-77e9524bb366)
-![image](https://github.com/user-attachments/assets/c469c53a-7b6c-42d0-8a28-5c6a94c908fe)
+  ![image](https://github.com/user-attachments/assets/4dbdd5b8-2062-42ea-a882-77e9524bb366)
+  ![image](https://github.com/user-attachments/assets/c469c53a-7b6c-42d0-8a28-5c6a94c908fe)
 
 Now subsituiting the equstions into the equation below allows for the derivation of M
-![image](https://github.com/user-attachments/assets/3fe89aff-0a40-4825-9966-e3e170a8bccb)
+  ![image](https://github.com/user-attachments/assets/3fe89aff-0a40-4825-9966-e3e170a8bccb)
 After using the equation above the subsition looks like the expressions below:
-![image](https://github.com/user-attachments/assets/f0d43415-6604-4ad6-9563-4aaa9ef7ae49)
-![image](https://github.com/user-attachments/assets/89af6bbe-c5ea-4a55-bc9c-0db2e72e1cee)
+  ![image](https://github.com/user-attachments/assets/f0d43415-6604-4ad6-9563-4aaa9ef7ae49)
+  ![image](https://github.com/user-attachments/assets/89af6bbe-c5ea-4a55-bc9c-0db2e72e1cee)
 
 Then putting the equations in matrix form the M matrix can be derived below if terms are combined and put into a matrix.
 
-![image](https://github.com/user-attachments/assets/02ef2f9e-869f-4046-af35-e5dc76d3e6e3)
+  ![image](https://github.com/user-attachments/assets/02ef2f9e-869f-4046-af35-e5dc76d3e6e3)
 
 ## Verify equations of motion
 Given:
