@@ -67,8 +67,13 @@ In the code the simulation was ran 100 times and then the success rate was given
 ### Part 2: Use a Fixed set of initial condition, compare the performance of the two control laws by showing the curves of  ̇q and the corresponding controls Q1 and Q2.
 Using the inital conditions already in the code. The plots for needed for this section can be determined. The goal of this was to understand how the inital conditons influence Q1 and Q2. For the velocity the velocity decrease indicates that how quickly the system slows down. Then the control plot demostrates how the hard the system has to work or how much effort the system has to do. In the code the plots were able to be plotted and compared with example 8.9. The plot below shows Q1 and Q2 and there differences in more depth by using different colors. 
 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/d19adb38-fb92-4d4d-8cf5-591bbbda01d1" />
 
 ### Part 3: Introducing an Inertia Matrix Error For Q2
+
+When introducing an inertia matrix error for Q2 it causes changes with each part such as Q1 , Q2, and Q3. The overshoot for for Q3 is a lot smaller than Q1 and Q2. while Q2 is smaller than Q1 and is exactly zero. The sesttling time behaves as the overshoot with Q3 being smaller. However, the success rate are all similar. Furthermore the mass matrix for Q3 changes the damping characteristics, overshoot, and settling time. 
+The system can become unstable and its motion can grow out of control if the added matrix M+ΔM no longer positive definite. This means the control might start adding energy to the system instead of slowing it down, which leads to divergence
+![image](https://github.com/user-attachments/assets/f8ea0f9f-534d-40bf-8ee0-f0ef6c4a4496)
 
 
 
