@@ -26,9 +26,11 @@ Given:
 
 
 The lyapunov function is also given in 8.9 example and is seen below:
+
 In order to verify the equations of motion the equations need to match.
 
-![image](https://github.com/user-attachments/assets/9079f9f3-f03d-45a6-953c-7bf066655d04)![image](https://github.com/user-attachments/assets/b2a1e1f4-a152-4175-bb56-b82a43f008aa)
+![image](https://github.com/user-attachments/assets/9079f9f3-f03d-45a6-953c-7bf066655d04)
+![image](https://github.com/user-attachments/assets/b2a1e1f4-a152-4175-bb56-b82a43f008aa)
 
 Due to the problem not stating anything dealing with potential energy the lagrange equation is equal to kinetic energy. Using the kineitc energy and lagrange equationa and equaling it to Q will allow for the equations of motion to be derived below. 
 
