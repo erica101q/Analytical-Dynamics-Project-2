@@ -1,5 +1,5 @@
 # Analytical-Dynamics-Project-2
-This project will
+This project will explore using the system's Hamiltonian or total energy as a Lyapunov function to assess stability by using running Monte-Carlo simulations, comparing performances, and introducing an inertia error matrix. 
 ## Solving for M(q)
 First the center of mass is needed and is taken from the position vector. The following equations are taken from the diagram. After having the equations for each component each componets derivatives can be taken.
 
