@@ -58,10 +58,10 @@ Intial conditions
 
 ![image](https://github.com/user-attachments/assets/c3eea7e9-b520-4dc5-9649-95dcd4671679)
 
-
 ### Part 1: Running at least 100 Monte-Carlo simulations
 In the code the simulation was ran 100 times and then the success rate was given to test the global stability of control of the system. After running the code using the control law equations the success rate was 100%. This meant that the system goes back down to it's equilbrium point. However, this can be considered strange to have each trial to be 100% successful. So the code could be incorrect or the inital conditions are to small and there's not enough trials. The graph below shows the frequency and the sucess rate for each trial. 
 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/bc0be9db-b838-4c8d-9c32-0d9d06594c89" />
 
 
 ### Part 2: Use a Fixed set of initial condition, compare the performance of the two control laws by showing the curves of  ̇q and the corresponding controls Q1 and Q2.
