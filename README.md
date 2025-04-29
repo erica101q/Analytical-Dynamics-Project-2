@@ -12,11 +12,13 @@ Now subsituiting the equstions into the equation below allows for the derivation
 After using the equation above the subsition looks like the expressions below:
 ![image](https://github.com/user-attachments/assets/f0d43415-6604-4ad6-9563-4aaa9ef7ae49)
 ![image](https://github.com/user-attachments/assets/89af6bbe-c5ea-4a55-bc9c-0db2e72e1cee)
+
 Then putting the equations in matrix form the M matrix can be derived below if terms are combined and put into a matrix.
+
 ![image](https://github.com/user-attachments/assets/02ef2f9e-869f-4046-af35-e5dc76d3e6e3)
+
 ## Verify equations of motion
 Given:
-
 ![image](https://github.com/user-attachments/assets/774d7171-5116-4da5-bcb7-df8a55f2d9b6)
 ![image](https://github.com/user-attachments/assets/6bf5b842-98bc-480b-89ab-a52b46459bff)
 ![image](https://github.com/user-attachments/assets/f761cb58-9e5d-41de-bfb0-3445abf59de6)
