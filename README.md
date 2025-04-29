@@ -68,6 +68,7 @@ The system can become unstable and its motion can grow out of control if the add
 
 ![image](https://github.com/user-attachments/assets/f8ea0f9f-534d-40bf-8ee0-f0ef6c4a4496)
 
-
+## How to run the code
+Press run and everything should show. 
 
 
