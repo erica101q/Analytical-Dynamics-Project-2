@@ -1,45 +1,31 @@
 # Analytical-Dynamics-Project-2
 This project will
 ## Solving for M(q)
-First the center of mass is needed and is taken from the position vector. The following equations are taken from the diagram.
+First the center of mass is needed and is taken from the position vector. The following equations are taken from the diagram. After having the equations for each component each componets derivatives can be taken.
 
-![image](https://github.com/user-attachments/assets/8c977780-3259-4900-91ea-cbae055dbe4b)
-
-After having the equations for each component each componets derivatives can be taken.
-
-![image](https://github.com/user-attachments/assets/4dbdd5b8-2062-42ea-a882-77e9524bb366)
-![image](https://github.com/user-attachments/assets/c469c53a-7b6c-42d0-8a28-5c6a94c908fe)
+![image](https://github.com/user-attachments/assets/8c977780-3259-4900-91ea-cbae055dbe4b)![image](https://github.com/user-attachments/assets/4dbdd5b8-2062-42ea-a882-77e9524bb366)![image](https://github.com/user-attachments/assets/c469c53a-7b6c-42d0-8a28-5c6a94c908fe)
 
 Now subsituiting the equstions into the equation below allows for the derivation of M
 
-![image](https://github.com/user-attachments/assets/3fe89aff-0a40-4825-9966-e3e170a8bccb)
-  
-After using the equation above the subsition looks like the expressions below:
-
-![image](https://github.com/user-attachments/assets/f0d43415-6604-4ad6-9563-4aaa9ef7ae49)![image](https://github.com/user-attachments/assets/89af6bbe-c5ea-4a55-bc9c-0db2e72e1cee)![image](https://github.com/user-attachments/assets/02ef2f9e-869f-4046-af35-e5dc76d3e6e3)
+![image](https://github.com/user-attachments/assets/3fe89aff-0a40-4825-9966-e3e170a8bccb)![image](https://github.com/user-attachments/assets/f0d43415-6604-4ad6-9563-4aaa9ef7ae49)![image](https://github.com/user-attachments/assets/89af6bbe-c5ea-4a55-bc9c-0db2e72e1cee)![image](https://github.com/user-attachments/assets/02ef2f9e-869f-4046-af35-e5dc76d3e6e3)
 
 The matrix is able to be put into the T equation which is also the lyapunov function in the verify equations of motion section. 
 
 ## Verify equations of motion
 Given:
-![image](https://github.com/user-attachments/assets/774d7171-5116-4da5-bcb7-df8a55f2d9b6)
-![image](https://github.com/user-attachments/assets/6bf5b842-98bc-480b-89ab-a52b46459bff)
-![image](https://github.com/user-attachments/assets/f761cb58-9e5d-41de-bfb0-3445abf59de6)
-![image](https://github.com/user-attachments/assets/d2e088ec-b504-4b8b-8d7d-47fcd6af9efd)
+![image](https://github.com/user-attachments/assets/774d7171-5116-4da5-bcb7-df8a55f2d9b6)![image](https://github.com/user-attachments/assets/6bf5b842-98bc-480b-89ab-a52b46459bff)![image](https://github.com/user-attachments/assets/f761cb58-9e5d-41de-bfb0-3445abf59de6)![image](https://github.com/user-attachments/assets/d2e088ec-b504-4b8b-8d7d-47fcd6af9efd)
 
 
 The lyapunov function is also given in 8.9 example and is seen below:
+In order to verify the equations of motion the equations need to match.
 
-![image](https://github.com/user-attachments/assets/9079f9f3-f03d-45a6-953c-7bf066655d04)
-
-In order to verify the equations of motion the equations need to match the given expression below:
-
-![image](https://github.com/user-attachments/assets/b2a1e1f4-a152-4175-bb56-b82a43f008aa)
+![image](https://github.com/user-attachments/assets/9079f9f3-f03d-45a6-953c-7bf066655d04)![image](https://github.com/user-attachments/assets/b2a1e1f4-a152-4175-bb56-b82a43f008aa)
 
 Due to the problem not stating anything dealing with potential energy the lagrange equation is equal to kinetic energy. Using the kineitc energy and lagrange equationa and equaling it to Q will allow for the equations of motion to be derived below. 
 
 ![image](https://github.com/user-attachments/assets/1cdf5e3f-253c-4e38-894c-b15b6af94c74)
 ![image](https://github.com/user-attachments/assets/f69bde7c-fada-4bfb-824e-b277521532c0)
+
 Then following the same process the following two equations can be determined below:
 
 ![image](https://github.com/user-attachments/assets/4743ca4f-dc4f-4bd5-89a5-4573150b2ce9)
