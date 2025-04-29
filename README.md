@@ -17,7 +17,10 @@ Then putting the equations in matrix form the M matrix can be derived below if t
 ## Verify equations of motion
 Given:
 
-![image](https://github.com/user-attachments/assets/774d7171-5116-4da5-bcb7-df8a55f2d9b6)![image](https://github.com/user-attachments/assets/6bf5b842-98bc-480b-89ab-a52b46459bff)![image](https://github.com/user-attachments/assets/f761cb58-9e5d-41de-bfb0-3445abf59de6)![image](https://github.com/user-attachments/assets/d2e088ec-b504-4b8b-8d7d-47fcd6af9efd)
+![image](https://github.com/user-attachments/assets/774d7171-5116-4da5-bcb7-df8a55f2d9b6)
+![image](https://github.com/user-attachments/assets/6bf5b842-98bc-480b-89ab-a52b46459bff)
+![image](https://github.com/user-attachments/assets/f761cb58-9e5d-41de-bfb0-3445abf59de6)
+![image](https://github.com/user-attachments/assets/d2e088ec-b504-4b8b-8d7d-47fcd6af9efd)
 
 
 
