@@ -2,7 +2,7 @@
 This project will
 ## Verify equations of motion
 Given:
-q=[█(θ_1@θ_2@θ_3 )]![image](https://github.com/user-attachments/assets/774d7171-5116-4da5-bcb7-df8a55f2d9b6)
+![image](https://github.com/user-attachments/assets/774d7171-5116-4da5-bcb7-df8a55f2d9b6)
 
 The lyapunov function is also given in 8.9 example:
 
