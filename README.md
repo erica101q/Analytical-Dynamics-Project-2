@@ -3,7 +3,9 @@ This project will
 ## Solving for M(q)
 First the center of mass is needed and is taken from the position vector. The following equations are taken from the diagram. After having the equations for each component each componets derivatives can be taken.
 
-![image](https://github.com/user-attachments/assets/8c977780-3259-4900-91ea-cbae055dbe4b)![image](https://github.com/user-attachments/assets/4dbdd5b8-2062-42ea-a882-77e9524bb366)![image](https://github.com/user-attachments/assets/c469c53a-7b6c-42d0-8a28-5c6a94c908fe)
+![image](https://github.com/user-attachments/assets/8c977780-3259-4900-91ea-cbae055dbe4b)
+![image](https://github.com/user-attachments/assets/4dbdd5b8-2062-42ea-a882-77e9524bb366)
+![image](https://github.com/user-attachments/assets/c469c53a-7b6c-42d0-8a28-5c6a94c908fe)
 
 Now subsituiting the equstions into the equation below allows for the derivation of M
 
