@@ -10,12 +10,12 @@ First the center of mass is needed and is taken from the position vector. The fo
 Now subsituiting the equstions into the equation below allows for the derivation of M
 
 
-##
-
-
 ![image](https://github.com/user-attachments/assets/3fe89aff-0a40-4825-9966-e3e170a8bccb)
+
 ![image](https://github.com/user-attachments/assets/f0d43415-6604-4ad6-9563-4aaa9ef7ae49)
+
 ![image](https://github.com/user-attachments/assets/89af6bbe-c5ea-4a55-bc9c-0db2e72e1cee)
+
 ![image](https://github.com/user-attachments/assets/02ef2f9e-869f-4046-af35-e5dc76d3e6e3)
 
 The matrix is able to be put into the T equation which is also the lyapunov function in the verify equations of motion section. 
