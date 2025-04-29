@@ -51,13 +51,12 @@ Then following the same process the following two equations can be determined be
 ![image](https://github.com/user-attachments/assets/a3bcf829-059b-4090-8121-54dfad917dec)
 
 
-
-
-Solving the partials will allow for the equation to match the expression that was given above. The code shows this with the matrix as it is given instead of just an M variable as done before. So the equation of motions that were derived matches the given expression for the problem and it is verfied in the code.  
+Solving the partials will allow for the equation to match the expression what was given above. The code shows this with the matrix as it is given instead of just an M variable as done before. So the equation of motions that were derived matches the given expression for the problem and it is verfied in the code.  
 
 ## Program and carry out numerical simulations using control laws
 Intial conditions
 
+![image](https://github.com/user-attachments/assets/c3eea7e9-b520-4dc5-9649-95dcd4671679)
 
 
 ### Part 1: Running at least 100 Monte-Carlo simulations
