@@ -72,7 +72,8 @@ Using the inital conditions already in the code. The plots for needed for this s
 ### Part 3: Introducing an Inertia Matrix Error For Q2
 
 When introducing an inertia matrix error for Q2 it causes changes with each part such as Q1 , Q2, and Q3. The overshoot for for Q3 is a lot smaller than Q1 and Q2. while Q2 is smaller than Q1 and is exactly zero. The sesttling time behaves as the overshoot with Q3 being smaller. However, the success rate are all similar. Furthermore the mass matrix for Q3 changes the damping characteristics, overshoot, and settling time. 
-The system can become unstable and its motion can grow out of control if the added matrix M+ΔM no longer positive definite. This means the control might start adding energy to the system instead of slowing it down, which leads to divergence
+The system can become unstable and its motion can grow out of control if the added matrix M+ΔM no longer positive definite. This means the control might start adding energy to the system instead of slowing it down, which leads to divergence.
+
 ![image](https://github.com/user-attachments/assets/f8ea0f9f-534d-40bf-8ee0-f0ef6c4a4496)
 
 
