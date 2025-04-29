@@ -10,7 +10,7 @@ First the center of mass is needed and is taken from the position vector. The fo
 Now subsituiting the equstions into the equation below allows for the derivation of M
 
 
-
+##
 
 
 ![image](https://github.com/user-attachments/assets/3fe89aff-0a40-4825-9966-e3e170a8bccb)
